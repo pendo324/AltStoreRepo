@@ -21,6 +21,16 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "8",
+          "date": "2026-10-06T22:16:39+00:00",
+          "localizedDescription": "docs(readme): note that there are no stable releases yet",
+          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.0.0-077287b.ipa",
+          "size": 36087640,
+          "sha256": "64b23c377b2fa3a3ff81e331477696b6c4702a654af01d795071f379b4ffbcfe",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "7",
           "date": "2026-10-06T21:56:10+00:00",
           "localizedDescription": "feat(intents): open the app when a Shortcuts intent runs",
