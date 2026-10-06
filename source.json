@@ -1,0 +1,11 @@
+{
+  "name": "pendo324",
+  "identifier": "io.github.pendo324.altstore",
+  "subtitle": "Apps by pendo324",
+  "description": "Stable releases of the apps pendo324 publishes. The IPAs are unsigned; AltStore or SideStore signs them on your device.",
+  "sourceURL": "https://pendo324.github.io/AltStoreRepo/source.json",
+  "website": "https://github.com/pendo324",
+  "tintColor": "8B5CF6",
+  "apps": [],
+  "news": []
+}

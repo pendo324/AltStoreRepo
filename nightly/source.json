@@ -1,0 +1,12 @@
+{
+  "name": "Phoebus Nightly",
+  "identifier": "io.github.pendo324.altstore.phoebus-nightly",
+  "subtitle": "Every build of Phoebus's main branch",
+  "description": "Unsigned builds of Phoebus's main branch, the newest 20. They can break. AltStore or SideStore signs them on your device.",
+  "sourceURL": "https://pendo324.github.io/AltStoreRepo/nightly/source.json",
+  "iconURL": "https://pendo324.github.io/AltStoreRepo/icons/phoebus.png",
+  "website": "https://github.com/pendo324/Phoebus",
+  "tintColor": "8B5CF6",
+  "apps": [],
+  "news": []
+}
