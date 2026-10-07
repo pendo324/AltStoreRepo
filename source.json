@@ -6,6 +6,40 @@
   "sourceURL": "https://pendo324.github.io/AltStoreRepo/source.json",
   "website": "https://github.com/pendo324",
   "tintColor": "8B5CF6",
-  "apps": [],
+  "apps": [
+    {
+      "name": "Phoebus",
+      "developerName": "pendo324",
+      "subtitle": "Radiant Reddit browsing",
+      "localizedDescription": "A SwiftUI Reddit client following Apollo and Apollo Reborn. You need your own Reddit API client ID. The IPA is unsigned; AltStore or SideStore signs it on your device.",
+      "iconURL": "https://pendo324.github.io/AltStoreRepo/icons/phoebus.png",
+      "tintColor": "8B5CF6",
+      "category": "social",
+      "screenshots": [],
+      "bundleIdentifier": "com.pendo324.Phoebus",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "buildVersion": "11",
+          "date": "2026-10-07T00:46:27+00:00",
+          "localizedDescription": "Release notes: https://github.com/pendo324/Phoebus/releases/tag/v0.1.0",
+          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/v0.1.0/Phoebus-v0.1.0.ipa",
+          "size": 36087640,
+          "sha256": "cd37e52ca4310f35905abadcd331cd358fc082015a8aca7dfd44745262dd451f",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Used to reach a notification backend or Bark server you host on your own network.",
+          "NSLocationWhenInUseUsageDescription": "Your approximate location is checked once to calculate sunset and sunrise for automatic theme switching. It is not shared or sent.",
+          "NSPhotoLibraryAddUsageDescription": "Used to save images, GIFs, and videos you choose to your Photos library."
+        }
+      }
+    }
+  ],
   "news": []
 }
