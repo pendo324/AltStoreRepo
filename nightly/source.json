@@ -21,6 +21,16 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "15",
+          "date": "2026-10-08T14:56:26+00:00",
+          "localizedDescription": "fix(notifications): don't crash when iOS runs the background inbox refresh",
+          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-cd79e0d.ipa",
+          "size": 36128297,
+          "sha256": "3cc1569a18cd4cbd6d4920aa27bc04ed1889e557c469a3d6bb9510329b773390",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "14",
           "date": "2026-10-08T02:38:50+00:00",
           "localizedDescription": "docs: describe the pull request checks and commands",
