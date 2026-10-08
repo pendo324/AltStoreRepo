@@ -21,6 +21,16 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "14",
+          "date": "2026-10-08T02:38:50+00:00",
+          "localizedDescription": "docs: describe the pull request checks and commands",
+          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-4e76988.ipa",
+          "size": 36127495,
+          "sha256": "19cea7a85c968299c187e5dc8b754e1d2032d2d34991f7749720c0c24a5940ee",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "13",
           "date": "2026-10-08T00:34:49+00:00",
           "localizedDescription": "feat(notifications): keep the app icon badge in step with the inbox",
