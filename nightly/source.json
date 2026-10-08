@@ -21,6 +21,16 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "16",
+          "date": "2026-10-08T15:22:16+00:00",
+          "localizedDescription": "feat(about): make Apollo Reborn credit even more explicit and detailed",
+          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-66602b3.ipa",
+          "size": 36137006,
+          "sha256": "70104cccef42c8e639e1b6bd6ce8b6d0f67f899a88677b47b4c8004e9284319f",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "15",
           "date": "2026-10-08T14:56:26+00:00",
           "localizedDescription": "fix(notifications): don't crash when iOS runs the background inbox refresh",
