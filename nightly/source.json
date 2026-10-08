@@ -21,6 +21,16 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "17",
+          "date": "2026-10-08T16:17:04+00:00",
+          "localizedDescription": "fix(comments): leave room under the last comment for the tab bar and jump button",
+          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-1ea4a51.ipa",
+          "size": 36139981,
+          "sha256": "7ceb53ec89f33051bd222df3d8b7a6bfe1bfee0a53f624e60480ec429344ae49",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "16",
           "date": "2026-10-08T15:22:16+00:00",
           "localizedDescription": "feat(about): make Apollo Reborn credit even more explicit and detailed",
