@@ -21,6 +21,16 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "13",
+          "date": "2026-10-08T00:34:49+00:00",
+          "localizedDescription": "feat(notifications): keep the app icon badge in step with the inbox",
+          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-3768273.ipa",
+          "size": 36127495,
+          "sha256": "322d995ae8a1b8ab5afa16aa9cf3ef31348613757ef32c166dfebecb7ccc1636",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "12",
           "date": "2026-10-07T00:51:51+00:00",
           "localizedDescription": "fix(ci): recreate the nightly tag when moving it is refused",
