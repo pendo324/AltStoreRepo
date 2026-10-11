@@ -21,6 +21,16 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "66",
+          "date": "2026-10-11T23:31:47+00:00",
+          "localizedDescription": "feat(saved): keep local copies of saved items Reddit drops (#58)",
+          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-238407a.ipa",
+          "size": 38977026,
+          "sha256": "b95d3b72dcb91e6f72ffcaeb1c1ad3a057795e43bb10d9eb6bfaaecea29f85f3",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "18",
           "date": "2026-10-11T20:10:45+00:00",
           "localizedDescription": "fix(settings): make the search index generator match the index (#9)",
@@ -125,6 +135,7 @@
           "com.apple.security.application-groups"
         ],
         "privacy": {
+          "NSCrossWebsiteTrackingUsageDescription": "Lets the YouTube player use the YouTube account you sign in to, for Premium, watch history and age-restricted videos.",
           "NSLocalNetworkUsageDescription": "Used to reach a notification backend or Bark server you host on your own network.",
           "NSLocationWhenInUseUsageDescription": "Your approximate location is checked once to calculate sunset and sunrise for automatic theme switching. It is not shared or sent.",
           "NSPhotoLibraryAddUsageDescription": "Used to save images, GIFs, and videos you choose to your Photos library."
