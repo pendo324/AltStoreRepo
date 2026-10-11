@@ -21,6 +21,16 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "18",
+          "date": "2026-10-11T20:10:45+00:00",
+          "localizedDescription": "fix(settings): make the search index generator match the index (#9)",
+          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-bc89325.ipa",
+          "size": 36142217,
+          "sha256": "7cc7fef0f33f59127a3d7af62cbf4713b530bcfd90c58af75f1b7604161425e6",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "17",
           "date": "2026-10-08T16:17:04+00:00",
           "localizedDescription": "fix(comments): leave room under the last comment for the tab bar and jump button",
