@@ -21,6 +21,16 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "70",
+          "date": "2026-10-11T23:54:05+00:00",
+          "localizedDescription": "feat(settings): add optional separate settings per account (#62)",
+          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-e1cf43b.ipa",
+          "size": 39538655,
+          "sha256": "84c87cf2d85403ac352ffddeee991e8393807f7210e26ac3d785b69017b2bda0",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "66",
           "date": "2026-10-11T23:31:47+00:00",
           "localizedDescription": "feat(saved): keep local copies of saved items Reddit drops (#58)",
