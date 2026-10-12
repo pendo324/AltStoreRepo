@@ -21,6 +21,16 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "71",
+          "date": "2026-10-11T23:59:59+00:00",
+          "localizedDescription": "test(smoke): make the followed-users fetch check deterministic (#63)",
+          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-c78d14e.ipa",
+          "size": 39538659,
+          "sha256": "0fed1f24edb6cbe1d7f10771d50c870d87bc296936c291245cbcd0d00c3f0a4a",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "70",
           "date": "2026-10-11T23:54:05+00:00",
           "localizedDescription": "feat(settings): add optional separate settings per account (#62)",
