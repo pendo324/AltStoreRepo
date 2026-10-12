@@ -21,6 +21,16 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "74",
+          "date": "2026-10-12T00:19:57+00:00",
+          "localizedDescription": "fix(comments): load more replies smoothly (#66)",
+          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-9cbcaed.ipa",
+          "size": 39552053,
+          "sha256": "3b150f0ab0fa611878e9ca69c564bde27e5a12f8137a034e6fba545de78045d1",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "71",
           "date": "2026-10-11T23:59:59+00:00",
           "localizedDescription": "test(smoke): make the followed-users fetch check deterministic (#63)",
