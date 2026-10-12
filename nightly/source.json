@@ -21,6 +21,16 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "98",
+          "date": "2026-10-12T17:41:19+00:00",
+          "localizedDescription": "build: take the Apollo IPA only from PHOEBUS_APOLLO_IPA (#91)",
+          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-50e169f.ipa",
+          "size": 40466563,
+          "sha256": "43f84f93f1c8492849e5327bfc387ad398364f1ee5cd0bf8c69d45efc4d0d71c",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "96",
           "date": "2026-10-12T14:22:48+00:00",
           "localizedDescription": "feat(feed): show the author's flair in subreddit feed rows (#90)",
