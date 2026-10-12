@@ -21,6 +21,16 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "91",
+          "date": "2026-10-12T01:53:06+00:00",
+          "localizedDescription": "feat(links): open X links on a Nitter instance (#83)",
+          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-74c956c.ipa",
+          "size": 40333338,
+          "sha256": "6271427ac3cb6588d9bbf0954cdcc52f65057e801c2bd44ac865df6308caad44",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "74",
           "date": "2026-10-12T00:19:57+00:00",
           "localizedDescription": "fix(comments): load more replies smoothly (#66)",
