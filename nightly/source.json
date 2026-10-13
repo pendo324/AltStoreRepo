@@ -21,6 +21,16 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "99",
+          "date": "2026-10-13T01:33:38+00:00",
+          "localizedDescription": "docs: describe the final glyph system and how to add an icon",
+          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-3dc8db7.ipa",
+          "size": 40071814,
+          "sha256": "beeadedad92045cf05527e8ccb743645d672d41111cd766e091be7962e886ea2",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "98",
           "date": "2026-10-12T17:41:19+00:00",
           "localizedDescription": "build: take the Apollo IPA only from PHOEBUS_APOLLO_IPA (#91)",
