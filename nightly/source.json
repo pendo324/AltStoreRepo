@@ -21,6 +21,16 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "101",
+          "date": "2026-10-13T21:35:50+00:00",
+          "localizedDescription": "feat(icons): ship the app icons as an asset catalog that follows the system appearance",
+          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-37ed169.ipa",
+          "size": 32140024,
+          "sha256": "e7f4f818a1a7e8d228929a6be36c013beabbe66510d2beadf2bab569b9862a2a",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "99",
           "date": "2026-10-13T01:33:38+00:00",
           "localizedDescription": "docs: describe the final glyph system and how to add an icon",
