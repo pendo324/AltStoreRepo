@@ -21,6 +21,16 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "105",
+          "date": "2026-10-14T23:06:38+00:00",
+          "localizedDescription": "test(backup): an old backup still imports after the Wallpapers removal",
+          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-33ed325.ipa",
+          "size": 32004613,
+          "sha256": "ee1dd0bab73838b2b8aac6b8788a20b83b4b530e50fdbda4c69a1e82aff68268",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "103",
           "date": "2026-10-14T00:01:08+00:00",
           "localizedDescription": "fix(lgrender): remove previews of icons that are no longer listed",
@@ -207,16 +217,6 @@
           "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.0.0-f1ab8a4.ipa",
           "size": 36087641,
           "sha256": "834420a7beff16936667f2845f9b6d807af8b67c5d257ec452bd2110e186c462",
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.0",
-          "buildVersion": "6",
-          "date": "2026-10-06T20:39:51+00:00",
-          "localizedDescription": "ci: build the IPA on Linux in GitHub Actions",
-          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.0.0-9ebb19f.ipa",
-          "size": 36083693,
-          "sha256": "21c1ae718625bbc2995dd424d183cb825c302743007928c5348fd7647d0bd531",
           "minOSVersion": "17.0"
         }
       ],
