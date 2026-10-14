@@ -21,6 +21,16 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "103",
+          "date": "2026-10-14T00:01:08+00:00",
+          "localizedDescription": "fix(lgrender): remove previews of icons that are no longer listed",
+          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-4a22e1f.ipa",
+          "size": 32138941,
+          "sha256": "b3143b16847a059340ceea49df683d0c3a0d80a8a90e2136a1792d38f7ee4210",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "101",
           "date": "2026-10-13T21:35:50+00:00",
           "localizedDescription": "feat(icons): ship the app icons as an asset catalog that follows the system appearance",
