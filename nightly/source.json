@@ -21,6 +21,16 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "112",
+          "date": "2026-10-16T22:53:08+00:00",
+          "localizedDescription": "fix(markdown): draw quotes with a bar and indent in every body",
+          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-9664ba3.ipa",
+          "size": 32276378,
+          "sha256": "50c09d780821be718921ca6f81f9e208b0d25e3cd9975e5080f0d0c4d332424b",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "110",
           "date": "2026-10-16T13:09:32+00:00",
           "localizedDescription": "docs(awards): record the data sources, the web-session requirement and the differences",
@@ -207,16 +217,6 @@
           "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-3768273.ipa",
           "size": 36127495,
           "sha256": "322d995ae8a1b8ab5afa16aa9cf3ef31348613757ef32c166dfebecb7ccc1636",
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.0",
-          "buildVersion": "12",
-          "date": "2026-10-07T00:51:51+00:00",
-          "localizedDescription": "fix(ci): recreate the nightly tag when moving it is refused",
-          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-a5de38f.ipa",
-          "size": 36087640,
-          "sha256": "7b622cff0b43ca2c9fc2b38aeedb6116b9853c3496c89d5959712d37d7b60d32",
           "minOSVersion": "17.0"
         }
       ],
