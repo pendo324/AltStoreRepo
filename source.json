@@ -19,6 +19,16 @@
       "bundleIdentifier": "com.pendo324.Phoebus",
       "versions": [
         {
+          "version": "0.2.0",
+          "buildVersion": "115",
+          "date": "2026-11-06T03:24:34+00:00",
+          "localizedDescription": "Release notes: https://github.com/pendo324/Phoebus/releases/tag/v0.2.0",
+          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/v0.2.0/Phoebus-v0.2.0.ipa",
+          "size": 33211427,
+          "sha256": "cc87fb9b3af21d851641f1b4a86691e8aabb1cddc9250008be2077b9e8555364",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.0",
           "buildVersion": "11",
           "date": "2026-10-07T00:46:27+00:00",
@@ -34,6 +44,7 @@
           "com.apple.security.application-groups"
         ],
         "privacy": {
+          "NSCrossWebsiteTrackingUsageDescription": "Lets the YouTube player use the YouTube account you sign in to, for Premium, watch history and age-restricted videos.",
           "NSLocalNetworkUsageDescription": "Used to reach a notification backend or Bark server you host on your own network.",
           "NSLocationWhenInUseUsageDescription": "Your approximate location is checked once to calculate sunset and sunrise for automatic theme switching. It is not shared or sent.",
           "NSPhotoLibraryAddUsageDescription": "Used to save images, GIFs, and videos you choose to your Photos library."
