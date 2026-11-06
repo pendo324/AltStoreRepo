@@ -21,6 +21,16 @@
       "versions": [
         {
           "version": "0.1.0",
+          "buildVersion": "114",
+          "date": "2026-11-06T02:12:44+00:00",
+          "localizedDescription": "feat(chat): show muted rooms and mute or unmute a room",
+          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-c243d05.ipa",
+          "size": 33211430,
+          "sha256": "85b22bc580df267b459807af4b5b22ee4860c0238d2d1b8e76214a7d3244f31b",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.1.0",
           "buildVersion": "113",
           "date": "2026-11-06T01:04:29+00:00",
           "localizedDescription": "fix(comments): give the full link-card placeholder the card's shape",
@@ -207,16 +217,6 @@
           "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-cd79e0d.ipa",
           "size": 36128297,
           "sha256": "3cc1569a18cd4cbd6d4920aa27bc04ed1889e557c469a3d6bb9510329b773390",
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.0",
-          "buildVersion": "14",
-          "date": "2026-10-08T02:38:50+00:00",
-          "localizedDescription": "docs: describe the pull request checks and commands",
-          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-4e76988.ipa",
-          "size": 36127495,
-          "sha256": "19cea7a85c968299c187e5dc8b754e1d2032d2d34991f7749720c0c24a5940ee",
           "minOSVersion": "17.0"
         }
       ],
