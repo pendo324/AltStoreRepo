@@ -22,7 +22,7 @@
           "version": "0.2.1",
           "buildVersion": "117",
           "date": "2026-11-07T05:10:47+00:00",
-          "localizedDescription": "Release notes: https://github.com/pendo324/Phoebus/releases/tag/v0.2.1",
+          "localizedDescription": "Fixes since 0.2.0.\n\n- Images behind a post's \"Processing img\" placeholders now load, including PNGs and GIFs.\n- Collapsing or expanding comments in threads with link cards or embeds no longer jumps or draws a gap.\n- Collapsed comment headers that run past the bottom of the screen no longer rise through the rows below.\n\nFull notes: https://github.com/pendo324/Phoebus/releases/tag/v0.2.1",
           "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/v0.2.1/Phoebus-v0.2.1.ipa",
           "size": 33219218,
           "sha256": "dc103f0cda87755f320873127564103b4e80afd70e7d26b00f59aa1dc5ca627a",
