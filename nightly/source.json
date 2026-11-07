@@ -20,6 +20,16 @@
       "bundleIdentifier": "com.pendo324.Phoebus",
       "versions": [
         {
+          "version": "0.2.0",
+          "buildVersion": "116",
+          "date": "2026-11-07T05:05:36+00:00",
+          "localizedDescription": "fix(media): load the images behind a post's `Processing img` placeholders",
+          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.2.0-7ca0bd3.ipa",
+          "size": 33219215,
+          "sha256": "176d6b25e5f81a996f3eafe75b5bf579e4ef6d8ea308539e21dacf2f648a2a03",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.0",
           "buildVersion": "114",
           "date": "2026-11-06T02:12:44+00:00",
@@ -207,16 +217,6 @@
           "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-66602b3.ipa",
           "size": 36137006,
           "sha256": "70104cccef42c8e639e1b6bd6ce8b6d0f67f899a88677b47b4c8004e9284319f",
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.0",
-          "buildVersion": "15",
-          "date": "2026-10-08T14:56:26+00:00",
-          "localizedDescription": "fix(notifications): don't crash when iOS runs the background inbox refresh",
-          "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/nightly/Phoebus-v0.1.0-cd79e0d.ipa",
-          "size": 36128297,
-          "sha256": "3cc1569a18cd4cbd6d4920aa27bc04ed1889e557c469a3d6bb9510329b773390",
           "minOSVersion": "17.0"
         }
       ],
